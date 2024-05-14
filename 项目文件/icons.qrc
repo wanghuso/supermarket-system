@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/advancedgroup48.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/supergroup48.png</file>
+        <file>icons/jiantou.png</file>
+        <file>icons/mima.png</file>
+        <file>icons/gunali.png</file>
+    </qresource>
+</RCC>
